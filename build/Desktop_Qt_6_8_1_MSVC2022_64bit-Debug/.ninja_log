@@ -1,0 +1,9 @@
+# ninja log v5
+16	593	7623912059216049	ColorPredictionApp_autogen/timestamp	f7602eb013a1e49f
+16	593	7623912059216049	ColorPredictionApp_autogen/mocs_compilation.cpp	f7602eb013a1e49f
+16	593	7623912059216049	C:/Users/Lyman/Documents/ColorPredictionApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/ColorPredictionApp_autogen/mocs_compilation.cpp	f7602eb013a1e49f
+16	593	7623912059216049	C:/Users/Lyman/Documents/ColorPredictionApp/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/ColorPredictionApp_autogen/timestamp	f7602eb013a1e49f
+599	3417	7623912088746820	CMakeFiles/ColorPredictionApp.dir/ColorPredictionApp_autogen/mocs_compilation.cpp.obj	d533672b9cc265fc
+604	3515	7623912089732836	CMakeFiles/ColorPredictionApp.dir/main.cpp.obj	4abfcf83457c1937
+609	4112	7623912095673841	CMakeFiles/ColorPredictionApp.dir/mainwindow.cpp.obj	a9f5803c89025616
+4113	4681	7623912101042591	ColorPredictionApp.exe	7fb5e916c3e88f3a

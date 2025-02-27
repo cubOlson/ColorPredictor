@@ -1,0 +1,23 @@
+# Build artifacts
+debug/
+release/
+*.o
+*.elf
+*.hex
+*.bin
+Makefile
+
+# Qt-specific files
+*.user
+*.pro.user
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Vscode files
+.vscode/
+
+# Other
+*.swp
+*~
